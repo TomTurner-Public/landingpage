@@ -37,6 +37,7 @@ a {
 
 .hero {
     display: flex;
+    background-color: #1F2937;
 }
 
 #hero-main-text {
