@@ -12,4 +12,10 @@ body {
 
 ul {
     display: flex;
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
