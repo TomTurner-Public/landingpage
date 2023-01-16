@@ -40,6 +40,13 @@ a {
     padding-bottom: 5em;
 }
 
+#left, #right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+
 #hero-main-text {
     font-size: 48px;
     font-weight: bolder;
@@ -49,7 +56,6 @@ a {
 #hero-subtext {
     font-size: 18px;
     color: #E5E7EB;
-    margin-bottom: 6px;
 }
 
 #hero-signup-btn {
