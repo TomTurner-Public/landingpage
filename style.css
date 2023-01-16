@@ -34,3 +34,7 @@ a {
     font-weight: 900;
     color: #F9FAF8
 }
+
+.hero {
+    display: flex;
+}
