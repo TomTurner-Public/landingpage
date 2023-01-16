@@ -50,3 +50,9 @@ a {
     font-size: 18px;
     color: #E5E7EB
 }
+
+#hero-signup-btn {
+    background-color: #3882F6;
+    color: white;
+    font-weight: 600;
+}
