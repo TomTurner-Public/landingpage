@@ -56,3 +56,8 @@ a {
     color: white;
     font-weight: 600;
 }
+
+#hero-image {
+    width: 250px;
+    height: auto;
+}
