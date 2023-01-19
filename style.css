@@ -84,6 +84,12 @@ a {
     text-align: center;
 }
 
+#info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 .img_subtext {
     display: flex;
     flex-direction: row;
