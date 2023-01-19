@@ -146,5 +146,6 @@ a {
 }
 
 .sign-up-call .container {
+    display: flex;
     background-color: #3882F6;
 }
