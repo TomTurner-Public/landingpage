@@ -3,6 +3,8 @@ body {
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
     background-color: black;
+    margin-left: 6em;
+    margin-right: 6em;
 }
 
 .header, .hero {
@@ -10,7 +12,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
-    padding: 0 15%
+    padding: 0 15%;
 }
 
 #header-logo {
