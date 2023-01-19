@@ -92,4 +92,5 @@ a {
     width: 100px;
     height: auto;
     border: 2px solid #3882F6;
+    border-radius: 10px;
 }
