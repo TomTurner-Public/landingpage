@@ -82,3 +82,7 @@ a {
 .information {
     background-color: white;
 }
+
+.img_subtext {
+    display: flex;
+}
