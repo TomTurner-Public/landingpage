@@ -113,3 +113,10 @@ a {
     border: 3px solid #3882F6;
     border-radius: 10px;
 }
+
+.quotes {
+    background-color: #E5E7EB;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
