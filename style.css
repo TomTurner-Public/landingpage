@@ -150,3 +150,9 @@ a {
     display: flex;
     background-color: #3882F6;
 }
+
+#call-largetext {
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 20px;
+}
