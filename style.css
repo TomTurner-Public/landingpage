@@ -148,7 +148,10 @@ button {
 
 .sign-up-call .container {
     display: flex;
+    justify-content: center;
     background-color: #3882F6;
+    padding: 10px 15%;
+    margin: 5em;
 }
 
 #call-largetext {
