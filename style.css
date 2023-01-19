@@ -162,3 +162,7 @@ button {
     font-weight: 100;
     font-size: 14px;
 }
+
+.sign-up-call button {
+    border: 2px solid #F9FAF8;
+}
