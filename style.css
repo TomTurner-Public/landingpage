@@ -144,3 +144,7 @@ a {
     background-color: white;
     display: flex;
 }
+
+.sign-up-call .container {
+    background-color: #3882F6;
+}
