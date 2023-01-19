@@ -95,6 +95,7 @@ a {
 .img_subtext {
     display: flex;
     flex-direction: row;
+    margin: 1em 30% 7em 30%
 }
 
 .info-img {
