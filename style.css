@@ -96,6 +96,14 @@ a {
     display: flex;
     flex-direction: row;
     margin: 1em 25% 7em 25%;
+    justify-content: space-around;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 106px;;
 }
 
 .info-img {
