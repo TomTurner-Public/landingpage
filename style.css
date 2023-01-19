@@ -113,8 +113,8 @@ button {
 
 .img-subtext {
     display: flex;
-    margin: 5px 100px 0px 100px;
-    max-width: 100px;
+    margin: 5px 50px 0px 50px;
+    max-width: 150px;
 }
 
 .quotes {
