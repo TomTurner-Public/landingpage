@@ -128,3 +128,7 @@ a {
     font-weight: 100;
     color: #1F2937;
 }
+
+.quotes .container {
+    flex-direction: column;
+}
