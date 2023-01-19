@@ -87,3 +87,8 @@ a {
     display: flex;
     flex-direction: column;
 }
+
+.info-img {
+    width: 100px;
+    height: auto;
+}
