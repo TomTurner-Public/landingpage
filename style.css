@@ -119,4 +119,8 @@ a {
     text-align: center;
     display: flex;
     flex-direction: column;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
 }
