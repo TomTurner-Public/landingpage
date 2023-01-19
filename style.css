@@ -95,8 +95,8 @@ a {
 .info_subtext {
     display: flex;
     flex-direction: row;
-    margin: 1em 25% 7em 25%;
-    justify-content: space-around;
+    margin: 1em 30% 7em 30%;
+    justify-content: space-between;
 }
 
 .container {
