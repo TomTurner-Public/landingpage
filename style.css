@@ -85,7 +85,7 @@ a {
 
 .img_subtext {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .info-img {
