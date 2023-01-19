@@ -46,8 +46,10 @@ a {
 #left, #right {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     align-items: flex-start;
     gap: 8px;
+    max-width: 500px;
 }
 
 #hero-main-text {
