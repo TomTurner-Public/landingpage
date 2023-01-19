@@ -92,7 +92,7 @@ a {
     margin-bottom: 1em;
 }
 
-.img_subtext {
+.info_subtext {
     display: flex;
     flex-direction: row;
     margin: 1em 30% 7em 30%
