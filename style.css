@@ -143,6 +143,7 @@ a {
 .sign-up-call {
     background-color: white;
     display: flex;
+    justify-content: center;
 }
 
 .sign-up-call .container {
