@@ -122,7 +122,6 @@ a {
     background-color: #E5E7EB;
     text-align: center;
     display: flex;
-    flex-direction: column;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 36px;
     font-weight: 100;
@@ -131,4 +130,5 @@ a {
 
 .quotes .container {
     flex-direction: column;
+    margin: 4em 25% 4em 25%;
 }
